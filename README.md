@@ -7,3 +7,8 @@ Andrew ID: wenbol
 Major: 2nd year - M.S Information Security Policy and Management @ H. John Heinz III College, CMU
 
 Note: this repository is mainly used for 11-601 course work
+
+
+1st test update on 2015/09/21 @ 1:34 AM
+
+2nd test update on 2015/09/21 @ 1:35 AM
